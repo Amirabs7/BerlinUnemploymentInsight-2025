@@ -41,6 +41,24 @@ As a Berlin resident who became unemployed in July 2025, I created this analysis
 
 ---- 
 
+### 🛠️ How to Reproduce
+
+- Clone this repository
+
+git clone https://github.com/Amirabs7/BerlinUnemploymentInsight-2025.git
+
+cd BerlinUnemploymentInsight-2025
+
+- Install required Python packages
+
+pip install -r requirements.txt
+
+- Run the analysis
+
+python analysis.py
+
+---- 
+
 
 
 ## 📊 Key Visualizations
