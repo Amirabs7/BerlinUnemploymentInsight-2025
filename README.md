@@ -24,13 +24,19 @@ As a Berlin resident who became unemployed in July 2025, I created this analysis
 
 ### Data Structure
 📂 BA_Stats_2025-07.xlsx
-├── Metadata (3 tabs)
-├── Core Data:
-│   ├── Gender (Männer/Frauen)
-│   ├── Nationality (Deutsche/Ausländer) 
-│   ├── Age Groups (15-24, 55+)
-│   └── Special Categories
-└── Methodology (3 tabs)
+ ├── Metadata (3 tabs)
+
+ ├── Core Data:
+  
+  │   ├── Gender (Männer/Frauen)
+  
+  │   ├── Nationality (Deutsche/Ausländer)
+  
+  │   ├── Age Groups (15-24, 55+)
+  
+  │   └── Special Categories
+  
+  └── Methodology (3 tabs)
 
 ---- 
 
@@ -59,11 +65,15 @@ This project analyzes July 2025 unemployment statistics in Berlin by **age group
 ---
 
 ## 📂 Project Structure
-.
+
 ├── arbeitslos_Berlin_by_age.png
+
 ├── arbeitslos_Berlin_by_nationality.png
+
 ├── arbeitslos_Berlin_by_gender.png
+
 ├── analysis.py
+
 └── README.md
 
 
