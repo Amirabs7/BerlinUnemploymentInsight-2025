@@ -52,6 +52,16 @@ This project analyzes July 2025 unemployment statistics in Berlin by **age group
 
 This project analyzes July 2025 unemployment statistics in Berlin by **age group**, **nationality**, and **gender**, using official data from the Federal Employment Agency.
 
+
+### **1. Unemployment by Age Group**
+![Unemployment by Age](arbeitlos_Berlin_by_age.png)
+
+### **2. Unemployment by Nationality**
+![Unemployment by Nationality](arbeitlos_Berlin_by_nationality.png)
+
+### **3. Unemployment by Gender**
+![Unemployment by Gender](arbeitlos_Berlin_by_gender.png)
+
 ---
 
 
