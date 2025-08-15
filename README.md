@@ -40,11 +40,7 @@ As a Berlin resident who became unemployed in July 2025, I created this analysis
 
 ---- 
 
-# Berlin Unemployment Analysis - July 2025
 
-This project analyzes July 2025 unemployment statistics in Berlin by **age group**, **nationality**, and **gender**, using official data from the Federal Employment Agency.
-
----
 
 ## 📊 Key Visualizations
 
